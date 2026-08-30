@@ -12,7 +12,7 @@ Do fundamento às decisões de segurança em produção. Com IA desde o início.
 
 ## O que é
 
-O **SecBoxLab** forma profissionais capazes de entender sistemas, identificar riscos, construir segurança, investigar problemas, proteger aplicações e infraestrutura, responder a incidentes, automatizar defesa e trabalhar com IA — sem abrir mão do julgamento técnico.
+O **secboxlab** forma profissionais capazes de entender sistemas, identificar riscos, construir segurança, investigar problemas, proteger aplicações e infraestrutura, responder a incidentes, automatizar defesa e trabalhar com IA — sem abrir mão do julgamento técnico.
 
 A proposta não é assistir aulas. É **aprender segurança fazendo o trabalho de um Cybersecurity Engineer**.
 
