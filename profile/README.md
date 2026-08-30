@@ -1,4 +1,4 @@
-# SecBoxLab
+# secboxlab
 
 > **Aprenda. Proteja. Investigue. Evolua.**
 
